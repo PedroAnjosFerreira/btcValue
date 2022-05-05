@@ -26,6 +26,6 @@
 	<div class="border border-neutral-200 shadow-sm p-8 rounded-md text-5xl text-center space-y-5">
 		<h1 class="font-bold">{currencyFormatter.format(btcValue)}</h1>
 		<h1 class="text-green-500">{currencyFormatter.format(btcHigh)}</h1>
-		<h1 class="text-red-700">{currencyFormatter.format(btcLow)}</h1>
+		<h1 class="text-purple-700">{currencyFormatter.format(btcLow)}</h1>
 	</div>
 </div>
